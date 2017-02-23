@@ -7,7 +7,7 @@ class RelationshipEasyManagementPlugin extends MantisPlugin {
 		
 		$this->version = '0.2';
 		$this->requires = array (
-				'MantisCore' => '1.3.0' 
+				'MantisCore' => '1.2.0' 
 		);
 		
 		$this->author = 'Julien SCHNEIDER';
